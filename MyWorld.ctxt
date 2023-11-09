@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ prepare()
+comment10.params=
+comment10.target=void\ gameOver()
+comment2.params=
+comment2.target=MyWorld()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ tambahSkor()
+comment5.params=
+comment5.target=void\ tambahNyawa()
+comment6.params=
+comment6.target=void\ kurangNyawa()
+comment7.params=
+comment7.target=void\ spawnUang()
+comment8.params=
+comment8.target=void\ spawnBom()
+comment9.params=
+comment9.target=void\ spawnMedkit()
+numComments=11
